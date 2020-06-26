@@ -9,6 +9,5 @@ public class App {
     	
     	UsersGenerator.generate();
     	
-        System.out.println( "Hello World!" );
     }
 }
