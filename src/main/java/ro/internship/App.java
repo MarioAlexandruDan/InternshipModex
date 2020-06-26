@@ -4,10 +4,11 @@ package ro.internship;
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main( String[] args ) {
+    	
+    	UsersGenerator.generate();
+    	
         System.out.println( "Hello World!" );
     }
 }
